@@ -2,7 +2,9 @@
 
 langchain_gpt_1.py
 
-使用LangChain框架和MongoDB数据库，创建一个基于GPT的聊天机器人，同时记录聊天历史并判断用户基本信息。主要功能：
+使用LangChain框架和MongoDB数据库，创建一个基于GPT的聊天机器人，同时记录聊天历史。
+
+主要功能：
 
 连接到 MongoDB 数据库：通过指定连接字符串，连接到 MongoDB 数据库。
 
