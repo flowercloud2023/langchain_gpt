@@ -30,7 +30,7 @@ langchain_gpt_1.py
 
 LangChain：一个用于创建聊天机器人的Python框架，支持构建聊天链、添加记忆等功能。
 
-ChatOpenAI：LangChain提供聊天模型，用于生成机器人的回复。
+ChatOpenAI：聊天模型，用于生成机器人的回复。
 
 ChatPromptTemplate：用于构建聊天提示模板，指定系统消息和用户消息的模板。
 
